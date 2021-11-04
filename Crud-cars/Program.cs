@@ -64,6 +64,7 @@ namespace Crud_cars
                                 Console.WriteLine("ID: " + item.ID);
                                 Console.WriteLine("Модель: " + item.Model);
                                 Console.WriteLine("Скорость: " + item.Speed);
+                                Console.WriteLine("Цена: " + item.Price);
                                 Console.WriteLine("Цвет: " + item.Color);
                                 Console.WriteLine("-------------------------------------");
                             }
@@ -95,6 +96,8 @@ namespace Crud_cars
             cars.Model = Console.ReadLine();
             Console.Write("Введите скорость машины: ");
             cars.Speed = int.Parse(Console.ReadLine());
+            Console.Write("Укажите цену машины: ");
+            cars.Price = int.Parse(Console.ReadLine());
             Console.Write("Укажите цвет машины: ");
             cars.Color = Console.ReadLine();
             return cars;
@@ -109,6 +112,8 @@ namespace Crud_cars
             cars.Model = Console.ReadLine();
             Console.Write("Введите скорость: ");
             cars.Speed = int.Parse(Console.ReadLine());
+            Console.Write("Укажите стоимость: ");
+            cars.Price = int.Parse(Console.ReadLine());
             Console.Write("Введите цвет: ");
             cars.Color = Console.ReadLine();
             return cars;
