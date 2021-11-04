@@ -1,0 +1,7 @@
+D:\Dem.ekzamen\Crud-cars\Crud-cars\bin\Debug\Crud-cars.exe.config
+D:\Dem.ekzamen\Crud-cars\Crud-cars\bin\Debug\Crud-cars.exe
+D:\Dem.ekzamen\Crud-cars\Crud-cars\bin\Debug\Crud-cars.pdb
+D:\Dem.ekzamen\Crud-cars\Crud-cars\obj\Debug\Crud-cars.csproj.AssemblyReference.cache
+D:\Dem.ekzamen\Crud-cars\Crud-cars\obj\Debug\Crud-cars.csproj.CoreCompileInputs.cache
+D:\Dem.ekzamen\Crud-cars\Crud-cars\obj\Debug\Crud-cars.exe
+D:\Dem.ekzamen\Crud-cars\Crud-cars\obj\Debug\Crud-cars.pdb
